@@ -1,0 +1,8 @@
+[1,"==> quarto preview index.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"\r[1/2] posts\\2025-8-31-study\\index.qmd\n"]
+[1,"\r[2/2] posts.qmd\n"]
+[1,"\n"]
+[1,"Output created: ..\\..\\docs\\posts\\2025-8-31-study\\index.html\n\nPreparing to preview\n"]
+[1,"\nWatching files for changes\nBrowse at http://localhost:5890/posts/2025-8-31-study/index.html\n"]
+[1,"GET: /posts/2025-8-31-study/index.html\n"]
+[1,"GET: /posts.html\n"]

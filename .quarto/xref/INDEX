@@ -4,5 +4,11 @@
   },
   "about.qmd": {
     "about.html": "21f79bc1"
+  },
+  "posts/2025-8-31-study/index.qmd": {
+    "index.html": "60137324"
+  },
+  "posts.qmd": {
+    "posts.html": "4fdd3c7a"
   }
 }

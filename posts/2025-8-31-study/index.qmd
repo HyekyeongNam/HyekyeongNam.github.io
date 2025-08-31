@@ -1,0 +1,25 @@
+---
+title: "My first blog!"
+description: "사실 난 이미 블로거"
+author:
+  - name: Hyekyeong Nam
+    url: https://HyekyeongNam.github.io/
+    affiliation: GIS Lab, Department of Geography Education at Seoul National University
+    affiliation-url: https://geoedu.snu.ac.kr/ 
+date: last-modified
+categories: [study] # self-defined categories
+citation: 
+  url: https://HyekyeongNam.github.io/posts/2025-08-31-study/ 
+#image: thumbnail.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+#bibliography: references.bib
+---
+
+네이버 블로그는 이런거 다 알아서 해주던데...ㅋㅋ
+
+코드 실행 결과는 안나오니까 봐줌
+아 참고문헌도 자동으로 안해줌
+
+앞으로 활발히 잔디를 심어보겠습니다.
+
+일단 점심 뭐먹지
