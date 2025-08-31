@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "My first blog!\n\n\n\nstudy\n\n\n\n사실 난 이미 블로거\n\n\n\nHyekyeong Nam\n\n\nAug 31, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "HyekyeongNam.github.io",
@@ -7,24 +14,10 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "my name is asdf"
-  },
-  {
     "objectID": "posts/2025-8-31-study/index.html",
     "href": "posts/2025-8-31-study/index.html",
     "title": "My first blog!",
     "section": "",
     "text": "네이버 블로그는 이런거 다 알아서 해주던데…ㅋㅋ\n코드 실행 결과는 안나오니까 봐줌 아 참고문헌도 자동으로 안해줌\n앞으로 활발히 잔디를 심어보겠습니다.\n일단 점심 뭐먹지\n\n\n\nCitationBibTeX citation:@online{nam2025,\n  author = {Nam, Hyekyeong},\n  title = {My First Blog!},\n  date = {2025-08-31},\n  url = {https://HyekyeongNam.github.io/posts/2025-08-31-study/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nNam, Hyekyeong. 2025. “My First Blog!” August 31, 2025. https://HyekyeongNam.github.io/posts/2025-08-31-study/."
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
-    "section": "",
-    "text": "My first blog!\n\n\n\nstudy\n\n\n\n사실 난 이미 블로거\n\n\n\nHyekyeong Nam\n\n\nAug 31, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
