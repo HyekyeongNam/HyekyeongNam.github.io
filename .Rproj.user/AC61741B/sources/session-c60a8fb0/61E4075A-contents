@@ -18,6 +18,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    citation-style: _resources/apa.csl
 
 editor: visual
 

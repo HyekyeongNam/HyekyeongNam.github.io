@@ -17,8 +17,8 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 
 네이버 블로그는 이런거 다 알아서 해주던데...ㅋㅋ
 
-코드 실행 결과는 안나오니까 봐줌
-아 참고문헌도 자동으로 안해줌
+코드 실행 결과는 안나오니까 봐줌.
+아 참고문헌도 자동으로 안해줌.
 
 앞으로 활발히 잔디를 심어보겠습니다.
 
